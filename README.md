@@ -1,1 +1,1 @@
-# curso-dio-projeto-pratico-banco-digital
+# bootcamp-dio-projeto-pratico-banco-digital
